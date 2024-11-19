@@ -1,1 +1,3 @@
-# CapitalFront
+# CapitalFront 😄
+
+Proyecto en proceso ⚙
